@@ -78,7 +78,7 @@ public void mouseClicked(MouseEvent me)
 		jb3.setBackground(Color.BLACK);
 		jb3.setForeground(Color.WHITE);
 		}
-		}	
+	}
 
 	public void mouseExited(MouseEvent me)
 	{
